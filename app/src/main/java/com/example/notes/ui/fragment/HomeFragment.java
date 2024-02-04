@@ -131,7 +131,7 @@ public class HomeFragment extends Fragment {
                 fragmentTransaction.commit();
             }
         });
-
+//
 
         userPic.setOnClickListener(new View.OnClickListener() {
             @Override
